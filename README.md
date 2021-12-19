@@ -1,2 +1,2 @@
-# Strona internetowa z walidatorem formularza:
+# Aplikacja z walidatorem formularza:
 https://macieytm.github.io/Forms-Validator/
